@@ -1,0 +1,2 @@
+Program należy uruchamiać z python2. Python3 radził sobie z funkcjami '-k', '-e' i '-d', ale przy '-s' i '-v' miał problemy z liczbą x, która wychodziła z obliczeń.
+Ponadto pozwoliłam sobie na jedną poprawkę - w poleceniu były wymieniane dwa różne pliki z wiadomością, message.txt i plain.txt. Kod jest ustawiony na jeden plik, plain.txt.

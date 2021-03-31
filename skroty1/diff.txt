@@ -1,0 +1,30 @@
+md5 hash.txt: a1d37a8b5bfc2559aa6b1cbe930fd1ed
+md5 hash_.txt: 4345e7f861b69f4fc1d017aeeb8978d0
+bit length: 128
+bit difference: 64, percentage: 50.00%
+
+sha1 hash.txt: 129aceed1f5f2cd3ef7868ff0cc7eac86aeb2c31
+sha1 hash_.txt: 15cbfe9de1ac3d9676c901fdbd553d4fbaf34df5
+bit length: 160
+bit difference: 70, percentage: 43.75%
+
+sha224 hash.txt: 44a63faaf37e41f44ca16305c3ac3d6b75ff30667817e6b2ea068807
+sha224 hash_.txt: de14a9bdca80b66abc13f81e71dba970b0e9117ada570c473ec1c241
+bit length: 224
+bit difference: 115, percentage: 51.34%
+
+sha256 hash.txt: 383020ff8a972efa8e7e475097c6808ca839564746e88f788fbd27f92c7930d0
+sha256 hash_.txt: 0493721270114430b3e5bb3d3ec3688551d21e82a0243d6cbaf7484c5f437ead
+bit length: 256
+bit difference: 137, percentage: 53.52%
+
+sha384 hash.txt: 5533c37913079b1a2a298632f8a1950df8af31e1ba2c1747879f371e2fb6e403992043d108d993df6a8fcbcea6c06361
+sha384 hash_.txt: 03c4e607c3036e2d760f8bbb3b026d7f44ffcd23699db4bb74bd1c6d7e8f14399958b93fa463cac80b4bd7992add4093
+bit length: 384
+bit difference: 194, percentage: 50.52%
+
+sha512 hash.txt: ad45336666c404be300dca20faf23f648b50f787a75b3cf2149772916b5d4a03087b51337c5c29201538e695c965b056fb84c7e9da736c51c4c2787574aae0fe
+sha512 hash_.txt: cea7044458b1201eb43090ea13c50de50d0394fc3f5b00213436042cafd73d7b3ea29818dc7df01b776b7b41a14b05f595bacec52828146b3d85f709c3971dd8
+bit length: 512
+bit difference: 256, percentage: 50.00%
+
